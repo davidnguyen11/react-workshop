@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Workshop Slice
+
+[https://docs.google.com/presentation/d/14MdTgmzzigZKp0LKxK8XHL5rfkDacdz6kOuFzF0AWQc/edit?usp=sharing](https://docs.google.com/presentation/d/14MdTgmzzigZKp0LKxK8XHL5rfkDacdz6kOuFzF0AWQc/edit?usp=sharing)
+
+## Spec
+
+![screen shot 2018-12-29 at 12 16 29 pm](https://user-images.githubusercontent.com/6290720/50533759-a63a0980-0b63-11e9-83cd-d18141410001.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
