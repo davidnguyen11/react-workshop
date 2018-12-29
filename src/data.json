@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "author": "Nicholas C. Zakas",
+    "title": "The Principles of Object–Oriented JavaScript",
+    "description": "If you've used a more traditional object-oriented language, such as C++ or Java, JavaScript probably doesn't seem object-oriented at all. It has no concept of classes, and you don't even need to define any objects in order to write code. But don't be fooled—JavaScript is an incredibly powerful and expressive object-oriented language that puts many design decisions right into your hands. In The Principles of Object-Oriented JavaScript, Nicholas C. Zakas thoroughly explores JavaScript's object-oriented nature, revealing the language's unique implementation of inheritance and other key characteristics. You'll learn:",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/518hypqfQVL._SX376_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 2,
+    "author": "Douglas Crockford",
+    "title": "JavaScript: The Good Parts",
+    "description": "Nearly all programming languages have their share of pros and cons and JavaScript is no exception, as it was launched in a hurry, with not much time to refine thoroughly. JavaScript: The Good Parts is a thorough guide into making the most of this programming language, helping the readers move on to studying a subset of JavaScript that is essential to writing efficient and extensible code.",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 3,
+    "author": "Addy Osmani",
+    "title": "Learning JavaScript Design Patterns",
+    "description": "With Learning JavaScript Design Patterns, youíll learn how to write beautiful, structured and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable and up-to-date with the latest best practices, this book is for you. Explore many popular design patterns, including Modules, Observers, Facades and Mediators. Learn how modern architectural patternsósuch as MVC, MVP and MVVMóare useful from the perspective of a modern web application developer. This book also walks experienced JavaScript developers through modern module formats, how to namespace code effectively and other essential topics. ",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51jEMnP6UGL._SX385_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 4,
+    "author": "Aditya Bhargava",
+    "title": "Grokking Algorithms",
+    "description": "Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. You'll start with sorting and searching and, as you build up your skills in thinking algorithmically, you'll tackle more complex concerns such as data compression and artificial intelligence. Each carefully presented example includes helpful diagrams and fully annotated code samples in Python.",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SX397_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 5,
+    "author": "Eric Evans",
+    "title": "Domain-Driven Design",
+    "description": "Domain-Driven Design fills that need. This is not a book about specific technologies. It offers readers a systematic approach to domain-driven design, presenting an extensive set of design best practices, experience-based techniques, and fundamental principles that facilitate the development of software projects facing complex domains. Intertwining design and development practice, this book incorporates numerous examples based on actual projects to illustrate the application of domain-driven design to real-world software development.",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._SX375_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 6,
+    "author": "Robert Cecil Martin",
+    "title": "Clean Architecture",
+    "description": "By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals ",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41BjtnvIUQL._SX382_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 7,
+    "author": "Gayle Laakmann McDowell",
+    "title": "The Google Résumé",
+    "description": "The Google Resume is the only book available on how to win a coveted spot at Google, Microsoft, Apple, or other top tech firms. Gayle Laakmann McDowell worked in Google Engineering for three years, where she served on the hiring committee and interviewed over 120 candidates. She interned for Microsoft and Apple, and interviewed with and received offers from 10 tech firms. If you’re a student, you’ll learn what to study and how to prepare while in school, as well as what career paths to consider. If you’re a job seeker, you’ll get an edge on your competition by learning about hiring procedures and making yourself stand out from other candidates. Covers key concerns like what to major in, which extra-curriculars and other experiences look good, how to apply, how to design and tailor your resume, how to prepare for and excel in the interview, and much more Author was on Google’s hiring committee; interned at Microsoft and Apple; has received job offers from more than 10 tech firms; and runs CareerCup.com, a site devoted to tech jobs Get the only comprehensive guide to working at some of America’s most dynamic, innovative, and well-paying tech companies with The Google Resume.",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/413K6jMPe7L._SX319_BO1,204,203,200_.jpg"
+  }
+]

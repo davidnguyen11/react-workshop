@@ -1,0 +1,14 @@
+.Panel-left {
+  width: 50%;
+  height: 100vh;
+  flex: 1 0 0;
+  padding: 15px;
+}
+
+.Panel-right {
+  background-color: #F4F4F4;
+  width: 50%;
+  height: 100vh;
+  flex: 1 0 0;
+  padding: 15px;
+}
